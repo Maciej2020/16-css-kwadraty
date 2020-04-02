@@ -1,0 +1,14 @@
+.contener{
+    background-color: grey;
+    color: white;
+    width: 400px;
+    padding: 20px;
+}
+
+.kwadrat{
+    width: 100px;
+    height: 100px;
+    background: orangered;
+    display: block;
+    margin: 10px;
+}
